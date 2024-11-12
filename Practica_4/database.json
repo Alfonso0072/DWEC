@@ -80,6 +80,15 @@
       "precio": 60,
       "reservada": false,
       "fechaDisponibilidad": "2023-12-08"
+    },
+    {
+      "id": "6119",
+      "numero": 401,
+      "nombre": "Paraiso Alegre",
+      "tipo": "Suite",
+      "precio": 210,
+      "fechaDisponibilidad": "2025-12-01",
+      "reservada": false
     }
   ]
 }
